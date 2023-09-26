@@ -13,7 +13,7 @@ public class Ejemplo_completo_saludo {
 	
 	public static void main(String[] args)  {
 		Runtime r = Runtime.getRuntime();
-		String comando = "java SaludandoAAlguien";
+		String comando = "java ud1_ej1.Saludando";
 
 
 		Process p = null;
